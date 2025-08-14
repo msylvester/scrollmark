@@ -1,6 +1,7 @@
 # @treehut Social Media Trend Analysis
 
-A comprehensive data analytics pipeline for identifying trends, sentiment patterns, and actionable insights from social media comments.
+A comprehensive data analytics pipeline for identifying trends, sentiment patterns, and actionable insights from social media comments. [Executive summary](https://docs.google.com/document/d/1eD4rZmgGpQ-p62zez9_MVM4cqBse-iGWWfRZTKOMm0c/edit?usp=sharing)
+
 
 ## 📊 Project Overview
 
