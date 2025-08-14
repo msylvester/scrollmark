@@ -87,10 +87,4 @@ Deploy an LLM-based agent to pre-filter comments for relevance before sentiment 
 - **Python Libraries**: pandas, scikit-learn, VADER, Plotly, matplotlib
 - **Data Science Stack**: Standard ML/analytics libraries for robust analysis
 
-### AI Assistance
-- **Code Architecture**: AI-assisted modular design and best practices
-- **Analysis Methods**: AI-recommended sentiment analysis and trend detection approaches
-- **Visualization Design**: AI-guided chart selection for optimal insight presentation
-- **Report Generation**: AI-assisted executive summary and recommendation synthesis
-
 
